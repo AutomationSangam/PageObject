@@ -27,6 +27,7 @@
           <include name="setup"/>
           <include name="loginpageCrmlogotest"/>
           <include name="tearDown"/>
+          <include name="loginpageTitleTest"/>
           <include name="logintest"/>
         </methods>
       </class> <!-- com.crm.qa.testcases.LoginPageTest -->
